@@ -44,7 +44,7 @@ To design a **Home Page dashboard** in Excel that helps visualize key financial 
 - 🔄 Customer churn rate  
 - 🧩 Segmentation by account, loan, or card type
 
-- - ![d](https://github.com/user-attachments/assets/bffb3d76-de27-42bd-b735-5f0c678fd003)
+- ![a](https://github.com/user-attachments/assets/eecf6e88-ed3a-432f-af32-c48a0befd50e)
 
 ### 🏦 Account KPIs
 - 💼 Total accounts by type  
@@ -52,7 +52,7 @@ To design a **Home Page dashboard** in Excel that helps visualize key financial 
 - 💎 High-balance accounts  
 - 📈 Account growth rate over time
 
-- ![a](https://github.com/user-attachments/assets/eecf6e88-ed3a-432f-af32-c48a0befd50e)
+-  ![d](https://github.com/user-attachments/assets/bffb3d76-de27-42bd-b735-5f0c678fd003)
 
 ### 💸 Transaction KPIs
 - 💵 Total transaction volume  
