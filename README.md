@@ -27,6 +27,11 @@ To design a **Home Page dashboard** in Excel that helps visualize key financial 
 2. 📊 **Data Modeling** using Pivot Tables  
 3. 🎨 **Dashboard Design** in Excel (Home Page layout + KPIs)
 
+
+
+
+
+
 ---
 
 ## 📌 Key KPIs Analyzed
@@ -35,28 +40,39 @@ To design a **Home Page dashboard** in Excel that helps visualize key financial 
 - 🧍 New customers per year  
 - 📅 Average customer tenure  
 - 🔄 Customer churn rate  
-- 🧩 Segmentation by account, loan, or card type  
+- 🧩 Segmentation by account, loan, or card type
+
+- ![s](https://github.com/user-attachments/assets/94139a6d-e208-4dec-b74b-b0900f9afcc4)
 
 ### 🏦 Account KPIs
 - 💼 Total accounts by type  
 - 💰 Average balance  
 - 💎 High-balance accounts  
-- 📈 Account growth rate over time  
+- 📈 Account growth rate over time
+
+- ![a](https://github.com/user-attachments/assets/eecf6e88-ed3a-432f-af32-c48a0befd50e)
 
 ### 💸 Transaction KPIs
 - 💵 Total transaction volume  
 - ⚖️ Average transaction amount  
-- 🧮 Transactions per customer  
+- 🧮 Transactions per customer
+
+- ![d](https://github.com/user-attachments/assets/bffb3d76-de27-42bd-b735-5f0c678fd003)
 
 ### 🧾 Loan KPIs
 - 🏠 Active loans by type (Car, Personal, Home)  
 - 🪙 Total loan portfolio size  
-- 📉 Average interest rate  
+- 📉 Average interest rate
+
+- ![e](https://github.com/user-attachments/assets/5b3a6679-7577-4709-8f32-01d96fb080b6) 
 
 ### 💳 Card KPIs
 - 🪪 Number of cards issued by type (Debit, Prepaid)  
 - ⏳ Card lifespan  
-- 🔁 Active vs expired cards  
+- 🔁 Active vs expired cards
+
+- 
+![f](https://github.com/user-attachments/assets/8dadf057-cc14-4b34-8a29-319c4983ddf0)
 
 ### ☎️ Support KPIs
 - 📞 Support calls per month  
