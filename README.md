@@ -17,7 +17,7 @@ Finance is the science of managing money — whether for individuals, businesses
 
 ## 🎯 Project Goal
 
-To design a **Home Page dashboard** in Excel that helps visualize key financial metrics for a bank’s customers, accounts, loans, cards, and support operations.
+To design a **Dashboard** in Excel that helps visualize key financial metrics for a bank’s customers, accounts, loans, cards, and support operations.
 
 ---
 
@@ -100,10 +100,8 @@ A clean Excel homepage with:
 
 ---
 
-## 👩‍💻 Created By
-
-**Safa Ali**  
-📚 Computer Science graduate – Data Analyst
+## 👩‍💻 My Linkedin :
+https://www.linkedin.com/in/safaali-data-analysis/
 
 ---
 
