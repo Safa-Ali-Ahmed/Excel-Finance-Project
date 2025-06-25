@@ -99,11 +99,6 @@ A clean Excel homepage with:
 - Banking image (for homepage design)
 - `.pptx` explanation file
 
----
-
-## 🚀 Preview
-
-> *(Add screenshots of the dashboard and analysis if available)*
 
 ---
 
