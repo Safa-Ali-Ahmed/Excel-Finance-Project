@@ -36,13 +36,15 @@ To design a **Home Page dashboard** in Excel that helps visualize key financial 
 
 ## 📌 Key KPIs Analyzed
 
+- ![s](https://github.com/user-attachments/assets/94139a6d-e208-4dec-b74b-b0900f9afcc4)
+
 ### 👥 Customer KPIs
 - 🧍 New customers per year  
 - 📅 Average customer tenure  
 - 🔄 Customer churn rate  
 - 🧩 Segmentation by account, loan, or card type
 
-- ![s](https://github.com/user-attachments/assets/94139a6d-e208-4dec-b74b-b0900f9afcc4)
+- - ![d](https://github.com/user-attachments/assets/bffb3d76-de27-42bd-b735-5f0c678fd003)
 
 ### 🏦 Account KPIs
 - 💼 Total accounts by type  
@@ -57,8 +59,6 @@ To design a **Home Page dashboard** in Excel that helps visualize key financial 
 - ⚖️ Average transaction amount  
 - 🧮 Transactions per customer
 
-- ![d](https://github.com/user-attachments/assets/bffb3d76-de27-42bd-b735-5f0c678fd003)
-
 ### 🧾 Loan KPIs
 - 🏠 Active loans by type (Car, Personal, Home)  
 - 🪙 Total loan portfolio size  
@@ -71,14 +71,12 @@ To design a **Home Page dashboard** in Excel that helps visualize key financial 
 - ⏳ Card lifespan  
 - 🔁 Active vs expired cards
 
-- 
-![f](https://github.com/user-attachments/assets/8dadf057-cc14-4b34-8a29-319c4983ddf0)
-
 ### ☎️ Support KPIs
 - 📞 Support calls per month  
 - ✅ Resolution rate  
 - ❓ Top issue types  
 
+![f](https://github.com/user-attachments/assets/8dadf057-cc14-4b34-8a29-319c4983ddf0)
 ---
 
 ## 📷 Sample Dashboard Design
